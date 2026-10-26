@@ -1,0 +1,9 @@
+{
+  "id": "personal-home",
+  "name": "Personal Home",
+  "version": "1.0.0",
+  "minAppVersion": "1.8.7",
+  "description": "An editorial personal home and long-form article reader with editable Markdown and dynamic notes.",
+  "author": "SephirahVII",
+  "isDesktopOnly": false
+}

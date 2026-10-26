@@ -1,0 +1,2 @@
+- [[examples/notes/welcome|Welcome to your notes]]
+- [[examples/blog/example-article|Example article]]
